@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\AzureStorageLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E769FB7-1012-4EAF-8ECC-EB5FEF9AE499}|MvcWebApp\\MvcWebApp.csproj|c:\\users\\pc\\source\\repos\\azurestoragelibrary\\mvcwebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E769FB7-1012-4EAF-8ECC-EB5FEF9AE499}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E769FB7-1012-4EAF-8ECC-EB5FEF9AE499}|MvcWebApp\\MvcWebApp.csproj|c:\\users\\pc\\source\\repos\\azurestoragelibrary\\mvcwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E769FB7-1012-4EAF-8ECC-EB5FEF9AE499}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E769FB7-1012-4EAF-8ECC-EB5FEF9AE499}|MvcWebApp\\MvcWebApp.csproj|c:\\users\\pc\\source\\repos\\azurestoragelibrary\\mvcwebapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E769FB7-1012-4EAF-8ECC-EB5FEF9AE499}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01559F4-45B0-426F-BAC2-D5886D749AEE}|QueueConsoleApp\\QueueConsoleApp.csproj|c:\\users\\pc\\source\\repos\\azurestoragelibrary\\queueconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01559F4-45B0-426F-BAC2-D5886D749AEE}|QueueConsoleApp\\QueueConsoleApp.csproj|solutionrelative:queueconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\AzureStorageLibrary\\MvcWebApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MvcWebApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\AzureStorageLibrary\\MvcWebApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MvcWebApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T15:57:53.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\AzureStorageLibrary\\MvcWebApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MvcWebApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\AzureStorageLibrary\\MvcWebApp\\appsettings.Development.json",
+              "RelativeToolTip": "MvcWebApp\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T15:57:46.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\AzureStorageLibrary\\QueueConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "QueueConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\AzureStorageLibrary\\QueueConsoleApp\\Program.cs",
+              "RelativeToolTip": "QueueConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:50:23.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\AzureStorageLibrary\\MvcWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\AzureStorageLibrary\\MvcWebApp\\appsettings.json",
+              "RelativeToolTip": "MvcWebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-10T21:21:15.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

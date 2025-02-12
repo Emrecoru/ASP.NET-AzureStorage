@@ -1,0 +1,35 @@
+﻿<h2>Save Picture</h2>
+<form asp-action="Upload" method="post" enctype="multipart/form-data">
+    <input type="file" name="picture" />
+    <button class="btn btn-primary btn-md" type="submit">Add Picture</button>
+</form>
+
+<h2>Blobs</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Picture</th>
+        <th>Name</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var item in ViewBag.blobs as List<FileBlob>)
+    {
+        <tr>
+            <td>
+                <img src="@item.Url" class="img-thumbnail" style="width:100px;" />
+            </td>
+            <td>@item.Name</td>
+            <td>
+                <a asp-action="Download" class="btn btn-success" asp-route-fileName="@item.Name">Download</a>
+                <a asp-action="Delete" class="btn btn-danger" asp-route-fileName="@item.Name">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+
+<h3>Logs</h3>
+@foreach (var item in ViewBag.logs as List<string>)
+{
+    <strong><div>@item</div></strong>
+}
+

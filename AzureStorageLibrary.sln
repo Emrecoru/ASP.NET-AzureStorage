@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureStorageLibrary", "AzureStorageLibrary\AzureStorageLibrary.csproj", "{86B3D79D-F7BF-4E69-A538-F639E9205A21}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcWebApp", "MvcWebApp\MvcWebApp.csproj", "{9E769FB7-1012-4EAF-8ECC-EB5FEF9AE499}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueueConsoleApp", "QueueConsoleApp\QueueConsoleApp.csproj", "{C01559F4-45B0-426F-BAC2-D5886D749AEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatermarkProcessFunction", "WatermarkProcessFunction\WatermarkProcessFunction.csproj", "{59A17AC1-8380-4275-98EA-BF6D533D4ED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86B3D79D-F7BF-4E69-A538-F639E9205A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B3D79D-F7BF-4E69-A538-F639E9205A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B3D79D-F7BF-4E69-A538-F639E9205A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B3D79D-F7BF-4E69-A538-F639E9205A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E769FB7-1012-4EAF-8ECC-EB5FEF9AE499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E769FB7-1012-4EAF-8ECC-EB5FEF9AE499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E769FB7-1012-4EAF-8ECC-EB5FEF9AE499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E769FB7-1012-4EAF-8ECC-EB5FEF9AE499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C01559F4-45B0-426F-BAC2-D5886D749AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C01559F4-45B0-426F-BAC2-D5886D749AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C01559F4-45B0-426F-BAC2-D5886D749AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C01559F4-45B0-426F-BAC2-D5886D749AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A17AC1-8380-4275-98EA-BF6D533D4ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A17AC1-8380-4275-98EA-BF6D533D4ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A17AC1-8380-4275-98EA-BF6D533D4ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A17AC1-8380-4275-98EA-BF6D533D4ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18A503D3-05AD-4D19-B180-2A1DC00C1E93}
+	EndGlobalSection
+EndGlobal

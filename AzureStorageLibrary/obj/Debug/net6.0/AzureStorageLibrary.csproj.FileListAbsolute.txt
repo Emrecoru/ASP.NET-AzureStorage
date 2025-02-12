@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\AzureStorageLibrary\AzureStorageLibrary\bin\Debug\net6.0\AzureStorageLibrary.deps.json
+C:\Users\pc\source\repos\AzureStorageLibrary\AzureStorageLibrary\bin\Debug\net6.0\AzureStorageLibrary.dll
+C:\Users\pc\source\repos\AzureStorageLibrary\AzureStorageLibrary\bin\Debug\net6.0\AzureStorageLibrary.pdb
+C:\Users\pc\source\repos\AzureStorageLibrary\AzureStorageLibrary\obj\Debug\net6.0\AzureStorageLibrary.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\AzureStorageLibrary\AzureStorageLibrary\obj\Debug\net6.0\AzureStorageLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\AzureStorageLibrary\AzureStorageLibrary\obj\Debug\net6.0\AzureStorageLibrary.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\AzureStorageLibrary\AzureStorageLibrary\obj\Debug\net6.0\AzureStorageLibrary.AssemblyInfo.cs
+C:\Users\pc\source\repos\AzureStorageLibrary\AzureStorageLibrary\obj\Debug\net6.0\AzureStorageLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\AzureStorageLibrary\AzureStorageLibrary\obj\Debug\net6.0\AzureStorageLibrary.dll
+C:\Users\pc\source\repos\AzureStorageLibrary\AzureStorageLibrary\obj\Debug\net6.0\refint\AzureStorageLibrary.dll
+C:\Users\pc\source\repos\AzureStorageLibrary\AzureStorageLibrary\obj\Debug\net6.0\AzureStorageLibrary.pdb
+C:\Users\pc\source\repos\AzureStorageLibrary\AzureStorageLibrary\obj\Debug\net6.0\ref\AzureStorageLibrary.dll

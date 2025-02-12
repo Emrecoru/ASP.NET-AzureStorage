@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewData["Title"] = "ShowWatermark";
+}
+
+<h1>ShowWatermark</h1>
+
+@foreach (var item in ViewBag.fileBlobs as List<FileBlob>)
+{
+    <img style="width:200px;" src="@item.Url" data-name="@item.Name" />
+}
